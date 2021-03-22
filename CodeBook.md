@@ -25,7 +25,10 @@ countryfreedom
 ESGCountrylabor participation  This data set is from a different source and has many challenges. Isolated one indicator, removed commas and special characters  
 ![image](https://user-images.githubusercontent.com/12059492/112023300-7d6a0a00-8b09-11eb-9743-5ab026e13c5f.png)
 
-giniindex  
+country indicators from https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
+![image](https://user-images.githubusercontent.com/12059492/112052192-3986fd00-8b29-11eb-9991-30a6f2554c26.png)
+
+giniindex  This source does not appear to be accurate. World Population Review
 ![image](https://user-images.githubusercontent.com/12059492/112011594-c799be00-8afe-11eb-82ff-1b4297d74f46.png)
 
 ESGcountryincomegroup  Due to UTF8 encoding issues, replaced special characters  
