@@ -42,33 +42,37 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112023547-be621e80-8b09-11eb-87d0-2b033ab4bab0.png)
 
 
-#### Exploratory using Snowflake Snowsight
-Gov Spending on Education
+#### Exploratory using Snowflake Snowsight, minimal charts available
+##### Gov Spending on Education
 ![image](https://user-images.githubusercontent.com/12059492/112052644-bca85300-8b29-11eb-8ffa-ddd0f746a065.png)
 
-Median Age
+##### Median Age
 ![image](https://user-images.githubusercontent.com/12059492/112053207-71db0b00-8b2a-11eb-965a-e3204092d1c1.png)
 
-GDP Growth
+##### GDP Growth
 ![image](https://user-images.githubusercontent.com/12059492/112053396-b1095c00-8b2a-11eb-96d4-3a56c832e0f4.png)
 
-Labor Participation
+##### Labor Participation
 ![image](https://user-images.githubusercontent.com/12059492/112053716-0cd3e500-8b2b-11eb-919d-f32da828c4d9.png)
 
-Highest Income Tax - higher doesnt promote equality
+##### Highest Income Tax - higher doesnt promote equality
 ![image](https://user-images.githubusercontent.com/12059492/112053949-5c1a1580-8b2b-11eb-82fe-0c6d231646d5.png)
 
-Personal Freedom Index
+##### Personal Freedom Index
 ![image](https://user-images.githubusercontent.com/12059492/112054268-bca95280-8b2b-11eb-9497-69b399478edb.png)
 
-Median Gini by Income Group 
+##### Median Gini by Income Group 
 ![image](https://user-images.githubusercontent.com/12059492/112054987-a9e34d80-8b2c-11eb-8264-f5bf7b4a6f53.png)
 
-Average by Income Group
+##### Average by Income Group
 ![image](https://user-images.githubusercontent.com/12059492/112055129-d8612880-8b2c-11eb-94cf-afa3162442f9.png)
 
-Economic Freedom and Income Group
+##### Economic Freedom and Income Group
 ![image](https://user-images.githubusercontent.com/12059492/112055327-14948900-8b2d-11eb-8f64-10a5304bc1a1.png)
+##### Correlations
+![image](https://user-images.githubusercontent.com/12059492/112058713-50c9e880-8b31-11eb-9a8c-1e1a0315adb6.png)  
+![image](https://user-images.githubusercontent.com/12059492/112058910-8f5fa300-8b31-11eb-8c84-efe0c709f6e1.png)
+
 
 #### Descriptive
 
