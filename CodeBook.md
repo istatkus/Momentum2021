@@ -22,11 +22,15 @@ countrycodes
 countryfreedom  
 ![image](https://user-images.githubusercontent.com/12059492/112015270-0bda8d80-8b02-11eb-9cdb-1d6421fd6595.png)
 
-ESGCountry  This data set is from a different source and has many challenges. 
+ESGCountrylabor participation  This data set is from a different source and has many challenges. Isolated one indicator, removed commas and special characters  
+![image](https://user-images.githubusercontent.com/12059492/112023300-7d6a0a00-8b09-11eb-9743-5ab026e13c5f.png)
+
 giniindex  
 ![image](https://user-images.githubusercontent.com/12059492/112011594-c799be00-8afe-11eb-82ff-1b4297d74f46.png)
 
-popbycountry  
+ESGcountryincomegroup  Due to UTF8 encoding issues, replaced special characters  
+![image](https://user-images.githubusercontent.com/12059492/112023165-5dd2e180-8b09-11eb-8cb0-2e83eca2861c.png)
+
 countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and stripped notes away form percent, percents were not in consistent decimal and were converted to decimal.
 ![image](https://user-images.githubusercontent.com/12059492/112015326-1a28a980-8b02-11eb-9ac1-53ee7ba8fb10.png)
 
