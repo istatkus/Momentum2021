@@ -73,6 +73,9 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112058713-50c9e880-8b31-11eb-9a8c-1e1a0315adb6.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112058910-8f5fa300-8b31-11eb-8c84-efe0c709f6e1.png)
 
+#### Exploratory with SAS
+![image](https://user-images.githubusercontent.com/12059492/112068712-e1f48b80-8b40-11eb-831b-dbfa199b0f6a.png)
+
 
 #### Descriptive
 
