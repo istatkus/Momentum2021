@@ -22,7 +22,7 @@ Which indexes, potentially representing policies contribute to a lower versus a 
 #### The First Step is to analyze and understand the data.
 
 These are very small data sets without any column descriptions. Initial analyis will occur in Excel. Some data cleansing will also be done manually. The data will be loaded to Snowflake IRENE_DB. 
-
+##### X
 countrycodes 
 ![image](https://user-images.githubusercontent.com/12059492/112009929-36761780-8afd-11eb-92e4-c88e540a8c0d.png)
 
@@ -80,7 +80,7 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112058713-50c9e880-8b31-11eb-9a8c-1e1a0315adb6.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112058910-8f5fa300-8b31-11eb-8c84-efe0c709f6e1.png)
 
-#### Exploratory with SAS
+### Exploratory with SAS
 ![image](https://user-images.githubusercontent.com/12059492/112068712-e1f48b80-8b40-11eb-831b-dbfa199b0f6a.png)  
 
 ![image](https://user-images.githubusercontent.com/12059492/112069753-c25e6280-8b42-11eb-93ce-5832a292af34.png)
@@ -95,7 +95,7 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112070134-7cee6500-8b43-11eb-9b83-be5a49848e09.png)
 
 
-### Data Robot
+### DATA ROBOT
 ![image](https://user-images.githubusercontent.com/12059492/112495751-8e5d8a00-8d5a-11eb-91a4-e6fafd8f9685.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112496165-e4cac880-8d5a-11eb-8e39-4c2267f3b12e.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112498041-8acb0280-8d5c-11eb-885a-f04df88dd056.png)
