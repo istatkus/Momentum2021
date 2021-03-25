@@ -92,6 +92,10 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112495751-8e5d8a00-8d5a-11eb-91a4-e6fafd8f9685.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112496165-e4cac880-8d5a-11eb-8e39-4c2267f3b12e.png)  
 ![image](https://user-images.githubusercontent.com/12059492/112498041-8acb0280-8d5c-11eb-885a-f04df88dd056.png)
+![image](https://user-images.githubusercontent.com/12059492/112498579-0b89fe80-8d5d-11eb-88a0-52f07abbf666.png)  
+![image](https://user-images.githubusercontent.com/12059492/112499103-87844680-8d5d-11eb-9c43-6b209dd6aee9.png)
+![image](https://user-images.githubusercontent.com/12059492/112499161-9834bc80-8d5d-11eb-88e4-5aa7c54b4c9f.png)
+![image](https://user-images.githubusercontent.com/12059492/112499231-a71b6f00-8d5d-11eb-9105-dc847f75c400.png)
 
 
 #### Prescriptive
